@@ -1,0 +1,6 @@
+dependencies:
+- name: elasticsearch
+  repository: https://charts.helm.sh/incubator
+  version: 0.4.7
+digest: sha256:98719f87ea4bc96c154ee5deea0db9901fde1caceeb75754831e2bfb02a03227
+generated: "2020-11-14T12:30:02.072860431Z"
